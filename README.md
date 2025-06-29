@@ -57,6 +57,13 @@ All the keys you type will be saved in a file called:
 
 [View the logged keys here (keyfile.txt)](keyfile.txt)
 
+![Screenshot 2025-06-29 235111](https://github.com/user-attachments/assets/0c03a83d-4693-4cfd-90f0-ed2b648ddc8c)
+
+Terminal will look like this.
+
+![Screenshot 2025-06-30 001103](https://github.com/user-attachments/assets/5a693b87-fff6-4052-8db7-9cd7e1bbb36d)
+
+
 
 It’ll even handle backspaces and enter keys properly.
 
